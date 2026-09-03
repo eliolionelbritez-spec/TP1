@@ -24,15 +24,15 @@ una clase abstracta `OfertaComercial`.
 
  Clases y responsabilidades
  Clase  Responsabilidad 
- `Persona` | Datos base (nombre, domicilio, DNI, teléfono) |
- `Cliente` | Extiende Persona. Límite de crédito, categoría, historial de compras |
- `Empleado` | Extiende Persona. Salario, puesto, fecha de ingreso, departamento |
- `Proveedor` | Extiende Persona. Razón social, NIF, productos suministrados |
- `Departamento` | Nombre, presupuesto, empleado responsable |
- `OfertaComercial` | Clase abstracta base de Producto y Servicio |
- `Producto` / `Servicio` | Código, nombre, precio, tipo, proveedor |
- `Pago` | Monto, fecha, forma de pago, estado |
- `Factura` | Une cliente, empleado, ítems y pago; calcula el total |
+ `Persona`  Datos base (nombre, domicilio, DNI, teléfono) 
+ `Cliente`  Extiende Persona. Límite de crédito, categoría, historial de compras 
+ `Empleado`  Extiende Persona. Salario, puesto, fecha de ingreso, departamento 
+ `Proveedor`  Extiende Persona. Razón social, NIF, productos suministrados 
+ `Departamento`  Nombre, presupuesto, empleado responsable 
+ `OfertaComercial`  Clase abstracta base de Producto y Servicio 
+ `Producto` / `Servicio`  Código, nombre, precio, tipo, proveedor 
+ `Pago`  Monto, fecha, forma de pago, estado 
+ `Factura`  Une cliente, empleado, ítems y pago; calcula el total 
 
 
 
