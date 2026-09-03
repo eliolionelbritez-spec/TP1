@@ -1,7 +1,7 @@
 Integrantes
 - Britez Elio Lionel - DNI 46241202
 - Maximo Valentino Larraburu - DNI 46784014
-- Maximo Lautaro Marquez - DNI 46.830.735
+- Maximo Lautaro Marquez - DNI 46830735
 
  Cómo interpretamos el escenario
 La empresa necesita registrar personas (clientes, empleados y proveedores),
